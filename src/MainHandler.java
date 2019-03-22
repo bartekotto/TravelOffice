@@ -20,7 +20,7 @@ public class MainHandler implements UserInterface {
         MainHandler.logger = logger;
     }
 
-    private static Logger logger = Logger.getLogger("log.txt");;
+    private static Logger logger = Logger.getLogger("mod12.ex01.to");;
     public MainHandler() {
 
     }

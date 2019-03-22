@@ -1,0 +1,2 @@
+mar 22, 2019 9:24:44 AM MainHandler addCustomer
+INFO: Customer added:Customer{name='1', address=Address{street='1', zip='1', city='1'}, trip=null}
